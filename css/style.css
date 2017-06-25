@@ -1,0 +1,15 @@
+#qrcode1 {
+  width:250px;
+  float:right;
+}
+
+#qrcode2 {
+  width:250px;
+}
+
+#cont{
+    width: 600px;
+    border: 1px solid black;
+    overflow: hidden;
+    padding: 20px;
+}
